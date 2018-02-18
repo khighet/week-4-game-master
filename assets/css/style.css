@@ -1,39 +1,42 @@
-body{
+body {
   background-image: url("../images/background.jpg");
-  font-family: 'Cormorant Upright', serif;
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 
 .container {
-  background-color: #6ed3cf;
+  background-color: #056d6a;
 }
 
-#name{
+#name {
   padding-top: 15px;
-  font-family: 'Cormorant Upright', serif;
+  font-family: "Times New Roman", Times, serif;
 }
-.paragraph{
-  font-family: 'Cormorant Upright', serif;
-  background-color: #6ed3cf;
+
+.paragraph {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #056d6a;
   margin-bottom: 10px;
   font: 35px;
   color: black;
 }
 
-.click{
-  width:80px;
-  height:80px;
+.click {
+  width: 80px;
+  height: 80px;
 }
 
 .start {
-  background-color: #9068be;
+  background-color: #056d6a;
   color: #e1e8f0;
   font: 25px;
   margin-bottom: 50px;
 }
-.addition{
+
+.addition {
   font-size: 30px;
 }
-.total{
+
+.total {
   font-size: 30px;
 }
